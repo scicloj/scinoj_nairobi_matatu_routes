@@ -251,7 +251,7 @@ the new routes create slightly smaller bottlenecks in multiple places.
   {:title {:text title},
    :tooltip {},
    :legend [],
-   :series [{:name ,
+   :series [{:name "Stop Name",
              :type "graph",
              :layout "force",
              :emphasis {:focus "adjacency", :lineStyle {:width 10}},
