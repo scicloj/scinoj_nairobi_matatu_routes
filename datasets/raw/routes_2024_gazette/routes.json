@@ -1,0 +1,709 @@
+[
+  {
+    "Route No": "1",
+    "Start": "Kikuyu Town",
+    "End": "Eastleigh Section 3",
+    "Key Stages": "Kikuyu Road–Waithaka, Naivasha Road – Kawangware, Ngong Road,  Junction Mall, Adams Arcade, Prestige Mall, KMTC, Community, Serena,  Kenyatta Avenue, GPO, ICEA, Ambassadeur –Ronald Ngala St. –Kariokor – Gen Waruingi St., Ist Avenue–19th St.",
+    "CBD Routing": "Race Course –St. Peters  Clavers Church, Uyoma St.,  Tusker, Kencom "
+  },
+  {
+    "Route No": "2",
+    "Start": "Dandora",
+    "End": "Kibera-Olympic",
+    "Key Stages": "Komarock Road, Kariobangi South, Mumias South Road, Bururburu, Jogoo  Road, Makadara, City Stadium, Landhies Road, St. Peter C Church, Tusker,  Moi Avenue, Kimathi St., Kencom, Kenyatta Avenue Ngong Road,  Community –KMTC, Ring Road Kilimani, Kibera Drive   ",
+    "CBD Routing": "GPO, Ambassdeur, Ronald  Ngala St., OTC"
+  },
+  {
+    "Route No": "2A",
+    "Start": "Dandora",
+    "End": "Kibera– Olympic",
+    "Key Stages": "Komarock  Road,  Kariobangi  South,  Mumias  South  Road,  Bururburu,  Jogoo  Road,  Likoni  Road,  Enterprise  Road,  Lusaka  Road,  Bunyala  Road,  Elgon  Road, Hospital Road, KNH, Ngong Road–KMTC, Ring Road Kilimani, Kibera  Drive",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "3",
+    "Start": "Dandora",
+    "End": "Upper Hill/Kenyatta National Hospital",
+    "Key Stages": "Komarock  Road,  Juja  Road,  Kariobangi  Roundabout,  Huruma,  St.  Teresa’s  Church,  Kariokor  Mkt,  Racecourse  Road,  St.  Peters  Clavers  Church,  Uyoma  Street Tusker, Moi Avenue, City Hall Way, Kencom, Kimathi Street Kenyatta  Avenue,  GPO,  Ngong  Road,  Community,  Ragati  Road,  Mara  Road,  Elgon  Road, Hospital Road, KNH (return via Mara and Ngong Roads)",
+    "CBD Routing": "GPO,  Ambassadeur,  Moi  Avenue,   Hailesellasie,  KPCU,  Landhies Road"
+  },
+  {
+    "Route No": "4",
+    "Start": "Eastleigh  Main",
+    "End": "Yaya Centre",
+    "Key Stages": "General  Waruingi  Street  Kariokor  Mkt,  Race  Course  Road,  St.  Peters  Clavers’Church,  Uyoma  St.,  Tusker,  Tom  Mboya  Street  Commercial,  Cabral  Street  Kenyatta  Avenue,  GPO,  Ngong  Road,  KMTC,  Prestige,  Ring  Road  Kilimani (circular)",
+    "CBD Routing": "GPO,  Kenyatta  Avenue,  Mondlane  Street,  Odeon,  Ronald Ngala, Race Course"
+  },
+  {
+    "Route No": "5",
+    "Start": "Eastleigh Main",
+    "End": "Yaya Centre",
+    "Key Stages": "Ist  Avenue,  St.  Teresah’s  Church,  Juja  Road,  Pangani,  Kariokor  Mkt,  Racecourse  Road,  St.  Peters  Clavers  Church,  Uyoma  Street  Tusker,  Tom  Mboya Street Commercial, Cabral Street Kenyatta Avenue, GPO, Valley Road,  Nairobi Hospital, Hurligham, Yaya, Ring Road Kilimani (circular)",
+    "CBD Routing": "GPO,  Kenyatta  Avenue,  Mondlane  Street,  Odeon,  Ronald Ngala, Race Course"
+  },
+  {
+    "Route No": "6",
+    "Start": "Githurai",
+    "End": "Kangemi",
+    "Key Stages": "Thika  Road,  TRM  Mall,  Alsops,  Park  Road,  Ring  Road  Ngara,  Kamukunji,  Haile Selasie Avenue, KPCU, Moi AvenueS lane Nkurumah Avenue, Jevanjee,  University Way, Uhuru High Way, St. Pauls Church, Waiyaki Way, Chiromo,  Westlands, ABC, Waruku",
+    "CBD Routing": "GPO,  ICEA,  Moi  Avenue  Gill  House,  Haile  Sellasie,  KPCU, Athusi,"
+  },
+  {
+    "Route No": "7",
+    "Start": "JKIA",
+    "End": "Westlands loop",
+    "Key Stages": "Airport  South  Road,  Mombasa  Road,  Cabanas,  Tajmall,  Outering  Road,  Donholm, Jogoo Road, City Stadium, Landhies Road, Haile Selasies Avenue,  KPCU,  Moi  Avenue,  S  lane  Nkurumah  Avenue,  Jevanjee,  University  Way,  Uhuru  Highway,  St.  Paul’s  Church,  Waiyaki  Way,  Museum,  Ojijo  Road,  Parklands Road, Ring Road Parklands, Waiyaki Way",
+    "CBD Routing": "GPO,  Ambassadeur,  Moi  Avenue,  Haile  Sellasie,  KPCU, Landhies"
+  },
+  {
+    "Route No": "8",
+    "Start": "Kahawa West",
+    "End": "Kangemi",
+    "Key Stages": "Kamiti Road, Thika Road, Alsops, Park Road, Ring Road Ngara, Kamukunji,  Haile Selasie AvenueKPCU, Moi Avenue, S lane Nkurumah Avenue, Jevanjee,  University  Way,  Uhuru  Highway,  Waiyaki  Way,  Chiromo,  Westlands,  ABC,  Waruku",
+    "CBD Routing": "GPO,  ICEA,  Moi  Avenue  Gill  House,  Haile  Sellasie,  KPCU, Athusi,"
+  },
+  {
+    "Route No": "9",
+    "Start": "Kariobangi",
+    "End": "Kibera–Olympic",
+    "Key Stages": "Kamunde Road, Outering Road, Kariobangi Roundabout, Juja Road .Huruma,  St.  Teresah  Church,  Ist  Avenue  Eastleigh,  Gen  Waruingi  St.,  Muinami  Street  Digo  Road,  Gikomba,  Retail  Mkt,  St.  Peters  Clavers,  Uyoma  Street  Tusker,  Moi Avenue, City Hall Way, Kencom, Kimathi Street Kenyatta Avenue, GPO,  Ngong Road, Ring Road Kilimani, Kibera Drive",
+    "CBD Routing": "GPO,  Ambassdeur,  Ronald  Ngala, OTC"
+  },
+  {
+    "Route No": "10",
+    "Start": "Mwiki-Kasarani",
+    "End": "Ngumo",
+    "Key Stages": "Mwiki  Road,  Thika  Road,  TRM  Mall,  Alsops,  Muranga  Road,  Globe  Roundabout,  Tom  Mboya  Street  Old  Posta,  Cabral  Street  Kenyatta  Avenue,  GPO,  Ngong  Road,  community,  KMTC,  Mbagathi  Way,  Mbagathi  Road,  Mtongwe Road",
+    "CBD Routing": "GPO,  Kenyatta  Avenue,  Mondlane  Street,  Old  Posta,  Muranga Road"
+  },
+  {
+    "Route No": "11",
+    "Start": "Kawangware",
+    "End": "Huruma",
+    "Key Stages": "Kawangare  Road,  Gitanga  Road,  Valley  Arcade,  Argwings  Kodhek  Road,  Yaya, Hurligham, Valley Road, Kenyatta Avenue, GPO, ICEA, Ambassadeur,  Ronald Ngala St., Kariokor, Juja Road, St. Teresahs Church, Mathare Road",
+    "CBD Routing": "Race  Course–St.  Peters  Clavers,  Uyoma,  Tusker,  Kencom"
+  },
+  {
+    "Route No": "12",
+    "Start": "Kawangware  ",
+    "End": "Umoja",
+    "Key Stages": "Kawangare  Road,  Gitanga  Road,  Valley  Arcade,  Argwings  Kodhek  Road,  Yaya, Hurligham, Valley Road, Kenyatta Avenue, GPO, ICEA, Ambassadeur,  Moi  Avenue,  KPCU  Landhies  Road,  Jogoo  Road,  City  Stadium,  Donholm,  Manyanja  Road,  Moi  Drive,  Loop  Clockwise  thro  Chief’s  Camp  exit  via  Mutindwa Mkt",
+    "CBD Routing": "Landhies,  KPCU,  Moi  Avenue,  City  Hall  Way  Kencom,  Kimathi  Street  Kentyatta Avenue"
+  },
+  {
+    "Route No": "13",
+    "Start": "Kayole",
+    "End": "Upper Hill/Kenyatta National Hospital",
+    "Key Stages": "Loop around clockwise from Masimba, Spine Road, Mayanja Road, Donholm,  Jogoo Road, Ciy Stadium, Landhies Road, Haile Sellasie Avenue, KPCU, Moi  Avenue,  Kencom,  City  Hall  Way,  Kimathi  St.,  GPO,  Ngong  Road–Ragati  Road,  Upperhill,  Mara  Road,  Elgon  Road,  Hospital  Road  Kenyatta  National  hospital ( on return Via Ragati Road, Ngong Road)",
+    "CBD Routing": "GPO,  Ambassadeur,  Moi  Avenue, KPCU, Landhies"
+  },
+  {
+    "Route No": "14",
+    "Start": "Kayole",
+    "End": "Riruta Satellite  Kabiria",
+    "Key Stages": "Looparound anti clockwise from Masimba, Spine Road, Umoja 2, Moi Drive,  Kangundo  Road,  Outering,  Kariobangi  Roundabout  Juja  Road,  Huruma,  St.  Teresah  Church,  Ist  Avenue  Eastleigh,  Gen.  Waruingi  Street  Muinami  Street  Digo Road, Gikomba, Retail Market, St. Peters Clavers Church, Uyoma Street  Tusker,  Moi  Avenue,  City  Hall  Way,  Kencom,  Kimathi  Street  Kenyatta  Avenue,  GPO,  Ngong  Road,  Adams,  Junction  Mall,  Naivasha  Road,  Wanyee  Road, Kinyanjui Road",
+    "CBD Routing": "GPO,  Ambassdeur,  Ronald  Ngala, OTC"
+  },
+  {
+    "Route No": "15",
+    "Start": "Kiambu",
+    "End": "Westlands loop",
+    "Key Stages": "Kiambu  Road,  Ridgeways,  Thika  Road,  Park  Road,  Ring  Road  Ngara,  Kamukunji,  Haile  Selasie  Avenue,  KPCU,  Moi  Avenue,  S  lane  Nkurumah  Avenue,  Jevanjee,  University  Way,  Uhuru  Highway,  St.  Paul’s  Church,  Museum, Ojijo Road, Parklands Road, Waiyaki Way, ( return GPO, ICEA, Gill  Hse, KPCU, Athusi, Park Road, Thika Road )",
+    "CBD Routing": "GPO,  Ambassadeur,  Gill  Hse.,  KPCU,  Athusi,  parkroad"
+  },
+  {
+    "Route No": "16",
+    "Start": "Kikuyu",
+    "End": "Kenyatta  National  Hospital",
+    "Key Stages": "Kikuyu  Road,  Gitaru,  A104,  Waiyaki  Way,  Kangemi,  Westlands,  Uhuru  Highway,  Kenyatta  Avenue,  GPO,  ICEA,  Gill  Hse,  Haile  Selassie  Avenue,  Govt.  Printers,  Greenpark,  Ragati  Road,  Mara  Road,  Elgon  Road,  Hospital  Road ( return via Ragati Road, Maktaba Kuu )",
+    "CBD Routing": "Green  Park,  Haile  Selasie,  Moi  Avenue,  Nkurumah  Avenue, Jevanjee"
+  },
+  {
+    "Route No": "17",
+    "Start": "Kinoo",
+    "End": "South B",
+    "Key Stages": "A104, Uthiru, Waiyaki Way, Kangemi, Westlands, Uhuru High Way, Kenyatta  Avenue, GPO ICEA, Gill House, Haile Selassie Avenue, Govt.Printers Uhuru  highway,  Bunyala  Road,  Dunga  Road,  Mater  Hospital,  Loop  clock  wise  to  Hazina, South B Shopping Centre",
+    "CBD Routing": "Haile  sellasie,  Moi  Avenue,  Nkurumah Ave Jevanjee"
+  },
+  {
+    "Route No": "18",
+    "Start": "Kitengela",
+    "End": "Westlands loop",
+    "Key Stages": "Nairobi–Namanga  Road, Mombasa  Road,  Mlolongo,  Cabanas,  GM,  Nyayo  Stadium, Uhuru highway, Uhuru Park (New), St. Paul’s Church, Museum hill,  Ojijo  Road  Parklands  Road,  Westlands  Trinagle,  Ring  Road  Parklands,  Waiyaka Way",
+    "CBD Routing": "KBC,  Uhuru  Highway,  Parliament Stage (new)"
+  },
+  {
+    "Route No": "18A",
+    "Start": "Athi River",
+    "End": "Westlands loop",
+    "Key Stages": "Mombasa  Road,  Mlolongo,  Cabanas,  Expressway–Musuem  Hill,  Uhuru  Highway,  Ojijo,  Parklands  Road,  Westlands  Triangle,  Ring  Road  Parklands,  Express Way",
+    "CBD Routing": "Express Way"
+  },
+  {
+    "Route No": "19",
+    "Start": "Kitengela",
+    "End": "Ruiru",
+    "Key Stages": "Nairobi–Namanga  Road,  Mombasa  Road,  Mlolongo,  Cabanas,  Airport  North  Road, Taj Mall, Outering Road, Alsops, Thika Road, Kasarani, Githurai,",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "19A",
+    "Start": "Kitengela",
+    "End": "Thika",
+    "Key Stages": "Nairobi–Namanga  Road,  Mombasa  Road,  Mlolongo,  Cabanas,  Airport  North  Road  Taj  Mall,  Outering  Road,  Eastern  By  pass,  Utawala,  Kangundo  Road  Junction, Thika Road, Ruiru, Juja,",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "20",
+    "Start": "Komarock- Donholm",
+    "End": "Adams Jamhuri   Estate",
+    "Key Stages": "Spine  Road,  Savanah,  Jacaranda,  Green  field,  Donholm,  Jogoo  Road,  City  Stadium,  Landhies  Road,  Hailesselasie  Avenue,  Moi  Avenue,  Cityhall  Way,  KImathi  St.,  Kenyatta  Avenue  GPO,  Ngong  Road,  Community,  KMTC,  Adams, Suna Road, Joseph Kangethe Road, Woodley, Kibera Station Road",
+    "CBD Routing": "GPO,  Ambassadeur,  Moi  Avenue, KPCU   , Landhies St."
+  },
+  {
+    "Route No": "21",
+    "Start": "Lucky Summer",
+    "End": "Kibera–Ayany",
+    "Key Stages": "Baba  Dogo  Road,  Thika  Road,  Alsops,  Muranga  Road,  Globe  Roundabout, Tom  Mboya  St.,  Old  Posta,  Cabral  Street  Kenyatta  Avenue,  GPO,  Serena,  Ngong Road, KMTC, Ring Road Kilimani, Kibera Drive",
+    "CBD Routing": "GPO,  Kenyatta  Avenue,  Mondlane  Street,  Old  Posta,  Muranga Road"
+  },
+  {
+    "Route No": "22",
+    "Start": "Mathare  North  NYSEI",
+    "End": "Kangemi",
+    "Key Stages": "Mathare  North  Road,  Redeemed  Church,  Juja  Road,  MAB,  St.  Teresah’s  Church,  Kariokor  Market,  Ring  Road  Ngara,  Kamukunji,  Haile  Sellasie  Avenue, KPCU, Moi Avenue, S Lane Nkurumah Avenue, Jevanjee, University  Way, St. Paul’s Church, Waiyaki Way, Chiromo, Westlands, ABC, Waruku,",
+    "CBD Routing": "GPO,  Ambassadeur,  Moi  Avenue,   Hailesellasie, KPCU, Athusi,  Kariokor Mkt"
+  },
+  {
+    "Route No": "23",
+    "Start": "Ngong",
+    "End": "Jericho",
+    "Key Stages": "Ngong Road,  Karen,  Racecourse,  Junction  Mall,  Adams,  Prestige  Mall,  KMTC,  Maktaba  Kuu,  Haile  Sellasie  Avenue  Greenpark,  Agip,  KPCU,  Landhies  Road,  Jogoo  Road,  City  Stadium,  Nyasa  Road,  Maringo,  Jericho,  Rabai Road, Nile Road",
+    "CBD Routing": "Landhies,  Haile  Sellasie,  KPCU, Green park"
+  },
+  {
+    "Route No": "24",
+    "Start": "Ngong",
+    "End": "Baba Dogo",
+    "Key Stages": "Ngong  Road,  Karen,  Racecourse,  Junction  Mall,  Adams,  Prestige  Mall,  KMTC,  Community,  Kenyatta  Avenue,  GPO,  ICEA,  Ambassadeur,  Ronald  Ngala St., Racecourse Road, Kariokor Mkt, Park Road, Pangani, Thika Road,  Alsops, Baba dogo Road",
+    "CBD Routing": "Race  Course–St.  Peters  Clavers, Uyoma St., Tusker,  Kencom"
+  },
+  {
+    "Route No": "25",
+    "Start": "Ongata Rongai",
+    "End": "Baba Dogo",
+    "Key Stages": "Magadi Road, Bomas, Langata Road, Wilson Airport, Nyayo Stadium, Uhuru  highway,  Haile  Sellasie  Avenue,  Agip,  KPCU,  Athusi,  Kariokor  Mkt,  Thika  Road, Alsops, Baba dogo Road",
+    "CBD Routing": "Kamukunji,  KPCU,  Haile  Sellasie Avenue"
+  },
+  {
+    "Route No": "26",
+    "Start": "Ongata Rongai",
+    "End": "Westlands",
+    "Key Stages": "Magadi  Road,  Bomas,  Langata  Road,  Kungu  Karumba  Road,  Kibera,  Ring  Road Kilimani, Yaya, Likoni Road, Oloitoktok Road, Ring Road Kileleshwa,  Riverside, Ring Road Westlands",
+    "CBD Routing": "orbital"
+  },
+  {
+    "Route No": "27",
+    "Start": "Otiende-St Marys",
+    "End": "Embakasi",
+    "Key Stages": "Kungu Karumba, Langata Road, Wilson Airport, Mbagathi Way, Ngong Road,  KMTC,  Community,  Kenyata  Avenue,  GPO,  ICEA,  Ambassadeur,  Ronald  Ngala  St.,  OTC,  Landhies  Road,  Jogoo  Road,  City  Stadium,  Makadara,  Donholm, Outering Road, Taj Mall, Airport North Road, Embakasi Road .",
+    "CBD Routing": "Landhies,  St.  Peter  C,  Uyoma,  Tusker,  Kencom,  Kimathi Street GPO"
+  },
+  {
+    "Route No": "27A",
+    "Start": "Otiende-Southlands",
+    "End": "Embakasi",
+    "Key Stages": "Kungu Karumba, Kitengela Road, Southlands, Langata Road, Wilson Airport,  Mbagathi  Way  Nyayo  Stadium,  Uhuru  Highway,  Haile  Sellasie  Avenue  KPCU,  Landhies  Road,  Jogoo  Road,  City  Stadium,  Makadara,  Donholm,  Outering Road, Taj Mall, Airport North Road, Embakasi Road .",
+    "CBD Routing": "Landhies,  KPCU,  Govt.  Printers"
+  },
+  {
+    "Route No": "28",
+    "Start": "Outerring-Buruburu",
+    "End": "Ngumo",
+    "Key Stages": "Mumias  South  Road,  Rabai  Road,  Uhuru  Estate,  Wangu  Avenue,  Heshima  Avenue,  1st  Avenue,  Jogoo  Road,  City  Stadium,  Landhies  Road,  St.  Peter  Clavers Church, Uyoma Street Tusker, Moi Avenue City Hall Way, Kencom,  Kimathi Street Kenyatta Avenue, GPO, Ngong Road, KMTC, Mbagathi Way,  Mbagathi Road, Mtongwe Road",
+    "CBD Routing": "GPO,  Ambassadeur,  Ronald  Ngala, OTC"
+  },
+  {
+    "Route No": "29",
+    "Start": "Pipeline",
+    "End": "Ngumo",
+    "Key Stages": "Outering  Road  Road,  Taj  Mall,  Cabanas,  Mombasa  Road,  Bellevue,  Nyayo  Stadium,  Haile  Sellasie  Avenue,  Moi  Avenue,  City  Hall  Way,  Kencom,  Kimathi  Street  Kenyatta  Avenue  GPO,  Ngong  Road,  Community,  KMTC,  Mbagathi Way, Mbagathi Road, Mtongwe Road",
+    "CBD Routing": "GPO,  Ambassadeur,  Gill  Hse, Haile Sellasie"
+  },
+  {
+    "Route No": "30",
+    "Start": "Pipeline",
+    "End": "Kangemi",
+    "Key Stages": "Outering  Road  Road,  Donholm,  Jogoo  Road,  Makadara,  City  Stadium,  Landhies,  Hailesselasie  Avenue  KPCU,  Moi  Avenue,  S  lane  Nkurumah  Av,  Jevanjee, University Way, Uhuru highway, St. pauls, Waiyaki Way Chiromo,  Westlands, ABC, Waruku,",
+    "CBD Routing": "GPO,  Ambassadeur,  Gill  Hse, Haile Sellasie"
+  },
+  {
+    "Route No": "30A",
+    "Start": "Pipeline",
+    "End": "KNH- Ngumo",
+    "Key Stages": "Outering  Road,  Lunga  Lunga  Road,  Enterprise  Road,  Lusaka  Road,  Bunyala  Road,  .Elgon  Road,  Hospital  Road,  KNH,  Ngong  Road,  KMTC,  Mbagathi  Way, Mbagathi Road, Mtongwe Road",
+    "CBD Routing": "orbital"
+  },
+  {
+    "Route No": "31",
+    "Start": "Riruta Satellite",
+    "End": "Outering",
+    "Key Stages": "Kinyanjui Road, Wanyee Road, Ngong Road, Junction Mall, Adams, Prestige  Mall,  KMTC,  maktaba  Makuu,  Greenpark,  Haile  Sellasie  Avenue,  Agip,  KPCU,  Pumwani  Road,  Gikomba,  Digo  Road,  Lamu  Road,  Ahero  Road,  Ambira Road, Heshima Avenue, Wangu Avenue, Buruburu Road, Rabai Road,  Mumias South Road,",
+    "CBD Routing": "Hailesellasie,  KPCU,  Green  park."
+  },
+  {
+    "Route No": "32",
+    "Start": "Riruta Satellite-Kabiria",
+    "End": "Kariobangi",
+    "Key Stages": "Kinyanjui Road, Wanyee Road, Naivasha Road, Junction Mall, Ngong Road,  Adams,  Prestige  Mall,  KMTC,  Community,  Serena,  Kenyatta  Avenue,  GPO,  ICEA, Ambassdeaur, Ronald Ngala St., Race Course Road, Kariokor Market,  Juja  Road,  St.  Teresahs  Church,  Huruma  Road,  Kariobangi  Roundabout,  Outering Road, Kamunde Road",
+    "CBD Routing": "Race  Course–St.  Peters  Clavers,  Uyoma,  Tusker,  Kencom"
+  },
+  {
+    "Route No": "33",
+    "Start": "Kamulu",
+    "End": "Ngumo",
+    "Key Stages": "Kangundo Road, Ruai, Outering Road, Donholm Jogoo Road, Makadara, Cith  Stadium,  Landhies  Road,  Haile  Sellasie  Avenue,  Govt.Printers,  Greenpark,  Ngong Road, Mbagathi Way, Mbagathi Road, Mtongwe Road",
+    "CBD Routing": "Green  park–  Haile  Sellasie,  KPCU"
+  },
+  {
+    "Route No": "33A",
+    "Start": "Kamulu",
+    "End": "Ngumo",
+    "Key Stages": "Kangundo  Road,  Ruai,  Outering  Road,  Kariobangi  Round  about,  Juja  Road,  Huruma, St. Teresah’s Church, Kariokor Market, Racecourse Road, St. peters  Clavers  Church,  Uyoma  St.,  Tusker,  Moi  Avenue,  Cityhall  Way,  Kencom,  Kimathi  Street  Kenyatta  Avenue,  GPO,  Ngong  Road,  Community,  KMTC,  Mbagathi Way, Mbagathi Road, Mtongwe Road",
+    "CBD Routing": "GPO,  Ambassadeur,  Ronald  Ngala, Racecourse"
+  },
+  {
+    "Route No": "34",
+    "Start": "Ruaka",
+    "End": "Upper  Hill/Kenyatta  National  Hospital",
+    "Key Stages": "Limuru  Road,  Village  Market  Mall,  Muthaiga  Market,  Parklands,  Ngara,  Muranga Road, Globe Roundabout, Tom Mboya St., Old Posta, Cabral Street  Kenyatta  Avenue  GPO,  Ngong  Road,  Community,  Ragati  Road,  Mara  Road,  Elgon  Road,  Hospital  Road  (  return  Via  Mara  Road,  Ragati  Road,  Ngong  Road)",
+    "CBD Routing": "GPO,  Kenyatta  Avenue,  Mondlane  Street,  Old  Posta,  Muranga Road"
+  },
+  {
+    "Route No": "35",
+    "Start": "Ruiru",
+    "End": "Upper  Hill/Kenyatta  National  Hospital",
+    "Key Stages": "Thika  Road,  Githurai,  Alsops,  Muthaiga,  Muranga  Road,  Globe  Roundabout,  Tom  Mboya  Street  Old  Posta,  Cabral  Street  Kenyatta  Avenue  GPO,  Ngong  Road,  Community,  Ragati  Road,  Mara  Road,  Elgon  Road,  Hospital  Road(return Mara Road, Ragati Road, Ngong Road)",
+    "CBD Routing": "GPO,  Kenyatta  Avenue,  Mondlane  Street,  Old  Posta,  Muranga Road"
+  },
+  {
+    "Route No": "36",
+    "Start": "Umoja",
+    "End": "Kibera–Ayany",
+    "Key Stages": "Loop anti clock wise in via outering out via Manyanja Road, Donholm, Jogoo  Road, Makadara, Ciy Stadium, Landhies, Haile Sellasie Avenue, KPCU, Moi  Avenue  Kencom  Cityhall  Way,  Kimathi  St.,  Kenyatta  Avenue,  GPO,  Ngong  Road, Community, KMTC, Ring Road Kilimani, Kibera Drive",
+    "CBD Routing": "GPO,  Ambassadeur,  Moi  Avenue,   Hailesellasie, KPCU, Athusi,  kariokor"
+  },
+  {
+    "Route No": "36A",
+    "Start": "Umoja",
+    "End": "Kibera–Ayany  via  Industrial  Area",
+    "Key Stages": "Loop anti clockwise in via outering out via Manyanja Road, Donholm, Lunga  Lunga  Road,  Enterprise  Road,  Lusaka  Road,  Bunyala  Road,  Elgon  Road,  Hospital RoadKNH, Ngong Road,–KMTC, Ring Road Kilimani, Kibera Drive",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "37",
+    "Start": "Utawala-Githunguri",
+    "End": "Kangemi",
+    "Key Stages": "Kinka,  Benedicta,  Eastern  By  Pass,  Airport  North  Road,  Mombasa  Road,  Cabanas,  GM,  Nyayo  Stadium,  Uhuru  highway,  Haile  Selasie  Avenue,  Agip,  Moi  Avenue,  S  lane  Nkurumah  Avenue,  Jevanjee,  University  Way,  Uhuru  Highway,  St.  Paul’s  Church,  Waiyaki  Way,  Chiromo,  Westlands,  ABC,  Waruku,",
+    "CBD Routing": "GPO,  Ambassadeur,  Gill  Hse, Haile Sellasie"
+  },
+  {
+    "Route No": "38",
+    "Start": "Utawala-Airways",
+    "End": "Kangemi",
+    "Key Stages": "MCA, Kinka, Benedicta, Eastern by pass, Airport North Road, Mombasa Road,  Cabanas,  GM,  Nyayo  Stadium,  Uhuru  highway,  Haile  Selasie  Avenue,  Agip,  Moi  Avenue,  S  lane  Nkurumah  Avenue,  Jevanjee,  University  Way,  Uhuru  Highway,  St.  Paul’s  Church,  Waiyaki  Way,  Chiromo,  Westlands,  ABC,  Waruku,",
+    "CBD Routing": "GPO,  Ambassadeur,  Gill  Hse, Haile Sellasie"
+  },
+  {
+    "Route No": "39",
+    "Start": "Wangige-Lower Kabete",
+    "End": "Central  Bus  station/Hakati",
+    "Key Stages": "Western  By  pass,  Kingeero,  Lower  kabete  Road,  Sarit,  Westlands  triangle,  Parklands Road, Ojijo Road, Kipande Road, Old posta, Tom Mboya St., Hakati  Road, Temple Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Tusker,  Tom  Mboya,  Old  Posta"
+  },
+  {
+    "Route No": "39A",
+    "Start": "Wangige-Mwimuto",
+    "End": "Central  Bus  station/Hakati",
+    "Key Stages": "Getathuru  Road,  Mwimuto,  Ngecha  Road,  Lower  Kabete  Road,  Sarit,  Westlands  Triangle,  Parklands  Road,  Ojijo,  Kipande  Road,  Old  posta,  Tom  Mboya Street Hakati Road, Temple Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Tusker,  Tom  Mboya,  Old  Posta"
+  },
+  {
+    "Route No": "40",
+    "Start": "Thika-Makongeni",
+    "End": "Westlands loop",
+    "Key Stages": "Westlands loop   Garissa  Road,  Thika  Road,  Juja,  Githurai,  Alsops,  Wangari  Maathai  Road,  Ojijo Road, Parklands Road, Ring Road Parklands, Waiyaki Way ( Return via  Museum)",
+    "CBD Routing": "Direct"
+  },
+  {
+    "Route No": "41",
+    "Start": "Githurai",
+    "End": "South C",
+    "Key Stages": "Thika Road, TRM Mall, Alsops, Outering Road, Kariobangi Round about, Juja  Road,  Street  Teresah’s  Church,  Ist  Avenue  Eastleigh,  Muinami  Street  Digo  Road,  Pumwani  Road,  St.  Peter  Clavers  Church.Tusker,  Moi  Avenue,  Haile  Sellasie  Avenue,  KPCU,  Govt.  printers,  Uhuru  Highway,  Mombasaa  Road,  Kopo Road, Muhoho Avenue, Ole Shapara Avenue, Muhoho Avenue, Kiganjo  Avenue  Mombasa  Road(clockwise  loop  from  Pop  Road.  Pick  and  drop  along  the route .",
+    "CBD Routing": "Uhuru  highway,  Haile  Sellasie,  Agip,  KPCU,  Retail, Pumwani Road"
+  },
+  {
+    "Route No": "42",
+    "Start": "Riruta Satellite",
+    "End": "Kahawa West",
+    "Key Stages": "Kinyanjui Road, Naivasha Road, Ngong Road, Junction Mall, Adams, Prestige  Mall,  Adams  KMTC,  Community,  Kenyatta  Avenue,  GPO,  ICEA,  Moi  Avenue, Gill Hse., KPCU, Athusi Parkroad, Pangani, Thika Road, Roysambu,  Kamiti Road",
+    "CBD Routing": "Park  Road,  Ring  Road  Ngara,   Kamukunji,  KPCU,  Moi  Avenue,  Cityhall  Way,  Kencom,  Kimathi  Street  Kenyata  AvenueGPO,  Ngong Road"
+  },
+  {
+    "Route No": "43",
+    "Start": "Gatina-Lavington",
+    "End": "Outering  Rd.  Estate",
+    "Key Stages": "Chalbi  Dvr,  Isaac  Gathanju  Road,  James  Gichuru  Road,  Riverside  Drive,  Chiromo,  Waiyaki  Way,  Uhuru  Highway,  University  Way,  Slip  Road,  Globe  Round About, Tom Mboya St., Ronald Ngala St., OTC, Landhies Road, City  Stadium, Jogoo Road, Rabai Road, Mumias South Road,",
+    "CBD Routing": "Landhies,  St.  peter  C,  Uyoma,  Tusker,  Commercial,  Slip  Road,  University  Way,  Uhuru  highway Waiyaki Way"
+  },
+  {
+    "Route No": "44",
+    "Start": "Kanungaga Kileleshwa",
+    "End": "Komarock Estate",
+    "Key Stages": "Macharia  Road,  Gitanga  Road,  Othaya  Road,  Nyeri  Road,  Gatundu  Road,  Mandera Road, Ring Road Kileleshwa, Riverside Drive, Waiyaki Way, Uhuru  highway, University Way, Globe Round About, Tom Mboya St., Ronald Ngala  St., OTC, Landhies Road, City Stadium, Jogoo Road, Donholm, Green Field,  Jacaranda, Spine Road,",
+    "CBD Routing": "Landhies,  St.  Peter  C,  Uyoma,  Tusker,  Commercial,  Slip  Road,  University  Way,  Uhuru  highway, Waiyaki Way,"
+  },
+  {
+    "Route No": "45",
+    "Start": "Gatina-Lavington",
+    "End": "South C",
+    "Key Stages": "Chalbi  Dvr,  Isaac  Gathanju  Road,  James  Gichuru  Road,  Riverside  Drive,  Chiromo,  Waiyaki  Way,  Uhuru  Highway,  Museum  Kipande  Road,  Globe  Round  About,  Tom  Mboya  St.,  Cabral  Street  Moi  Avenue,  Gill  Hse,  Govt  Printers,  Uhuru  Highway,  Mombasa  Road,  Popo  Road,  Muhoho  Avenue,  Ole  shaparaAvenue Mohoho Avenue Kiganjo Avenue, Mombasa Road ( clockwise  loop. From Popo Road Pick and drop along the route .",
+    "CBD Routing": "Haile sealssie,  Agip,  Tomboya,   Commercial,  Globe  Round  About,  Kipande  Road,  Museum, Waiyaki Way"
+  },
+  {
+    "Route No": "46",
+    "Start": "Kanungaga Kileleshwa",
+    "End": "Huruma Estate",
+    "Key Stages": "Macharia  Road,  Gitanga  Road,  Othaya  Road,  Nyeri  Road,  Gatundu  Road,  Mandera Road, Ring Road Kileleshwa, Riverside Drive, Waiyaki Way, Uhuru  Highway,  Kipande  Road,  Globe  Round  About,  Tom  Mboya  Street  Ronald  Ngala  Street  Riverside,  Kariokor  Market,  Juja  Road,  St.  Teresah’s,  Mathare  Road",
+    "CBD Routing": "Kariokor,  Racecourse  Road,  St. Peters C, Uyoma, Ronald  Ngala,  Tom  Mboya,  Commercial,  Globe  Round  About.Kipande  Road,  Museum,  Uhuru  hw,  Waiyaki Way"
+  },
+  {
+    "Route No": "47",
+    "Start": "Umoja",
+    "End": "Highridge-Deep sea",
+    "Key Stages": "Loop clockwise on Moi Drive in and out Via Kangundo Road, Outering Road,  Mumias  South  Road,  Buruburu,  Jogoo  Road,  Makadara,  Ciy  Stadium,  Landhies Road, St. Peter Clavers Church, Uyoma St., Tusker, Tom Mboya St.,  Globe  Round  About,  Muranga  Road,  Limuru  Road,  Third  Parklands  Avenue,  Mpaka Road, Deep Sea, Sixth parklands Avenue (loop Clockwise)",
+    "CBD Routing": "Muranga  Road,  Globe  Round  About,  Tom  mboya,  Ronald  Ngala,  OTC,  Landhies Road"
+  },
+  {
+    "Route No": "48",
+    "Start": "Umoja",
+    "End": "Community–Upperhill Loop",
+    "Key Stages": "Loop clock wise on Moi Drive in and out Via Kangundo Road, Mumias South  Road,  Rabai  Road,  Wangu  Avenue,  Heshima  Avenue,  1  St.  AvenueEasteigh,  Jogoo  Road,  City  Stadium,  Landhies  Road,  Haile  Sselasie  Avenue,  KPCU,  Moi  Avenue  Kencom,  Kimathi  St.,  Kenyatta  Avenue,  GPO,  Ngong  Road,  Community on to Railwy Club outside Stop.",
+    "CBD Routing": "Haile  Sellasie,  KPCU,  Landhies Road"
+  },
+  {
+    "Route No": "49",
+    "Start": "Kayole",
+    "End": "Uthiru Shops",
+    "Key Stages": "Loop around clockwise from Masimba, Spine Road, Mayanja Road, Donholm,  Jogoo Road, Ciy Stadium, Landhies Road, Haile Sellasie Avenue, KPCU, Moi  Avenue, Kencom, City Hall Way, Kimathi St., GPO, Ngong Road– Naivasha  Road, ILRI Round About (Circular with 49A)",
+    "CBD Routing": "GPO,  Ambassadeur,  Moi  Avenue,  Haile  Sellasie,  KPCU, Landhies Road"
+  },
+  {
+    "Route No": "49A",
+    "Start": "Kayole",
+    "End": "Uthiru Shops",
+    "Key Stages": "Loop around clockwise from Masimba, Spine Road, Mayanja Road, Donholm,  Jogoo Road, Ciy Stadium, Landhies Road, Haile Sellasie Avenue, KPCU, Moi  Avenue,  Nkurumah  Avenue,  Jevanjee  Gardens,  University  Way,  Uhuru  Highway,  Waiyaki  Way,  Westlands,  Kangemi,  Kabete  Technical  School/College, ILRI Round About (circular with 49)",
+    "CBD Routing": "GPO,  Ambassadeur,  Moi  Avenue,  Haile  Sellasie,  KPCU, Landhies Road"
+  },
+  {
+    "Route No": "50",
+    "Start": "Kayole",
+    "End": "Highridge-Deep sea",
+    "Key Stages": "Loop around clockwise from Masimba, Spine Road, Mayanja Road, Donholm,  Jogoo  Road,  Ciy  Stadium,  Landhies  Road,  St.  Peter  Clavers,  Uyoma  St.,  Tusker,  Tom  Mboya  St.,  Commercial,  Globe  Round  About,  Muranga  Road,  Limuru  Road,  6th  Parklands  Avenue,  Deep  Sea,  Mpaka  Road,  3rd  parklands  Avenue (loop anti clockwise)",
+    "CBD Routing": "Muranga  Road,  Globe  Round  About,  Tom  mboya,  Ronald  Ngala,  OTC,  Landhies Road"
+  },
+  {
+    "Route No": "51",
+    "Start": "Pipeline",
+    "End": "Community–Upperhill Loop",
+    "Key Stages": "Cross  over  at  Taj  Mall  turning  loop,  Outering  Road,  Donholm,  Jogoo  Road,  Makadara,  City  Stadium,  Landhies  Road,  Hailesselasie  Avenue,  KPCU,  Moi  Avenue,  Kencom,  Kimathi  St.,  Kenyatta  Avenue  Ngong  Road,  Community  onto Green Park Bus Stop outside",
+    "CBD Routing": "Haile  Sellasie,  KPCU,  Landhies Road"
+  },
+  {
+    "Route No": "52",
+    "Start": "Komarock",
+    "End": "Highridge-Deep sea",
+    "Key Stages": "Loop from Kangundo Road, Clockwise inside estate along Outering Road, Juja  Road,  Kariokor,  Racecourse  Road,  St.  Peter  Clavers  Church,  Uyoma  St.,  Tusker,  Tom  Mboya  St.,  Commercial,  Old  Posta,  Globe  Round  About,  Muranga Road, Limuru Road, 3rd Parklands Avenue, Mpaka Road, Deep Sea,  Sixth Parklands Avenue, (Loop clockwise)",
+    "CBD Routing": "Muranga  Road,  Globe  Round  About,  Tom  mboya,  Ronald  Ngala,  OTC,  Landhies Road"
+  },
+  {
+    "Route No": "53",
+    "Start": "Dandora",
+    "End": "Ngumo",
+    "Key Stages": "Komarock  Road,  Kariobangi  South,  Mumias  South  Road,  Bururburu,  Jogoo  Road,  Makadara,  City  Stadium,  Landhies  Road,  St.  Peter  Clavers  Church,  Tusker, Moi Avenue, Kencom, Kimathi Street Kenyatta Avenue, GPO, Ngong  Road, Community, KMTC, Mbagathi Way, Mbagathi Road, Mtongwe Road",
+    "CBD Routing": "GPO,  Ambassdeur,  Ronald  Ngala OTC"
+  },
+  {
+    "Route No": "54",
+    "Start": "Dandora",
+    "End": "South C",
+    "Key Stages": "Komarock  Road,  Kariobangi  Round  about,  Juja  Road,  St.  Teresahs  Church,  Kariokor Mkt, Kamukunji, Haile Sellasie Avenue, Uhuru High Way, Mombasa  Road,  Popo  Road,  Muhoho  Avenue,  Ole  shapara  Avenue,  Muhoho  Avenue,  Kiganjo  Avenue  Mombasa  Road  (Loop  Clockwise  from  Popo  Road  Pick  and  drop)",
+    "CBD Routing": "Haile  Sellasie,  KPCU,  Landhies Road"
+  },
+  {
+    "Route No": "55",
+    "Start": "Kariobangi",
+    "End": "Madaraka",
+    "Key Stages": "Kamunde Road, Outering Road, Kariobangi Round About, Juja Road, Huruma,  St.  Teresah’s  Church,  Juja  Road,  Ring  Road  Ngara,  Kariokor  Market,  Ring  Road,  Kamukunji,  Haile  Sellasie  Avenue,  KPCU,  Govt.  Printers,  Uhuru  Highway,  Langata  Road,  Muthaiti  Avenue,  Gandhi  Avenue,  Ole  Sangale  Avenue, Mbagathi Way, Langata Road ( loop in anti clockwise direction pick  and drop along Ole Sangale Avenue)",
+    "CBD Routing": "Haile  Sellasie,  KPCU,  Landhies Road"
+  },
+  {
+    "Route No": "56",
+    "Start": "Kariobangi",
+    "End": "Community–Upperhill Loop",
+    "Key Stages": "Kamunde Road, Outering Road, Kariobangi Roundabout, Juja Road .Huruma,  St.  Teresah’s  Church,  Ist  Avenue  Eastleigh,  Gen.  Waruingi  St.,  Muinami  St.,  Digo  Road,  Gikomba,  Retail  Market,  Haile  Sellasie  Avenue,  KPCU,  Moi  Avenue,  Kencom,  Kimathi  St.,  Kenyatta  Avenue,  .GPO,  Ngong  Road,  Community onto Railway Club out side bus Stop.",
+    "CBD Routing": "Haile  Sellasie,  KPCU,  Landhies Road"
+  },
+  {
+    "Route No": "57",
+    "Start": "Huruma",
+    "End": "South B",
+    "Key Stages": "Mathare Road, Juja Road, St. Teresah’s Church, Juja Road, Ring Road Ngara,  Kariokor Market, Racecourse Road, St. peter C Church, Uyoma Street Tusker,  Moi Avenue, Gill Hse., Haile selasie Avenue, Govt. Printers, Uhuru Highway,  Bunyala Road, Dunga Road, Mater Hospital, Loop clockwise to Hazina and to  South B Shopping centre",
+    "CBD Routing": "Haile  Sellasie,  KPCU,  Landhies Road"
+  },
+  {
+    "Route No": "58",
+    "Start": "Njiru",
+    "End": "Community–Upperhill Loop",
+    "Key Stages": "Kangundo  Road,  Outering  Road,  Donholm,  Jogoo  Road,  City  Stadium,  Landhies Road, Haile Sellasie Avenue, KPCU, Moi Avenue, Kencom, Kimathi  St.  Kenyatta  Avenue,  GPO,  Ngong  Road,  Community,  onto  of  Railway  Club  outside bus Stop",
+    "CBD Routing": "Haile  Sellasie,  KPCU,  Landhies Road"
+  },
+  {
+    "Route No": "59",
+    "Start": "Kawangware",
+    "End": "Eastleigh via  Gikomba",
+    "Key Stages": "Kawangware  Road,  Gitanga  Road,  James  Gichuru  Road,  Waiyaki  Way,  Westlands, Uhuru Highway, University Way, Slip Road, Globe Round About,  Tom  Mboya  St.,  Ronald  Ngala  St.  .  OTC,  Pumwani  Road,  Digo  Road,  Muinami  Street  Gen.  Waruingi  Street  1st  AvenueEastleigh  circular  anti  clockwise",
+    "CBD Routing": "St.  Peters  Clavers,  Uyoma,  Tusker,  Commercial,  Slip  RoadUniversity Way"
+  },
+  {
+    "Route No": "59A",
+    "Start": "Kawangware",
+    "End": "Eastleigh via Kariokor",
+    "Key Stages": "Kawangware  Road,  Gitanga  Road,  James  Gichuru  Road,  Waiyaki  Way,  Westlands,  Uhuru  highway,  University  Way,  slip  Road,  Globe  Round  About,  Tom  mboya  St.,  Ronald  Ngala  Street  Race  Course  Road,  Ring  Road  Ngara,  Kariakor Mkt, Juja Road, St. Teresah’s Church, 1st Avenue Eastleigh Circular  clock wise",
+    "CBD Routing": "Race  Course–St.  Peters  Clavers,  Uyoma,  Tusker,  Commercial,  Old  posta,  slip  Road, University Way"
+  },
+  {
+    "Route No": "62",
+    "Start": "Mwiki-Kasarani",
+    "End": "Westlands   Loop",
+    "Key Stages": "Mwiki  Road,  Thika  Road,  TRM  Mall,  Alsops,  Parkroad,  Ring  Road  Ngara,  Kamukunji  Pol,  Haile  Selassie  Avenue,  KPCU,  Moi  Avenue,  Nkurumah  Avenue,  Jevanjee,  University  Way,  Uhuru  Highway,  Museum,  Ojijo  Road,  Parklands Road, Ring Road Parklands, Waiyaki Way loop",
+    "CBD Routing": "Uhuru  Highway,  Kenyatta  Avenue,  Gill  Hse,  Haile  Sellasie Avenue KPCU"
+  },
+  {
+    "Route No": "63",
+    "Start": "South B",
+    "End": "Highridge-Deep sea",
+    "Key Stages": "Loop Clockwise from Mater Hospital, Hazina, South B shoppng Centre, Dunga  Road,  Bunyala  Road,  Uhurus  highway,  Haile  Sellasie  Avenue  Agip,  Tom  Mboya  Street  Commercial,  Old  Posta,  Muranga  Road,  Limuru  Road,  Sixth  Parklands  Avenue,  Deepsea,  Mpaka  Road,  Third  Parklands  Avenue  (Loop  clockwise)",
+    "CBD Routing": "Tom  Mboya  St.,  Cabral  St.,  Moi Avenue, Gill Hse, Haile  Sellasie Avenue"
+  },
+  {
+    "Route No": "63A",
+    "Start": "South B",
+    "End": "Highridge-Deep sea",
+    "Key Stages": "Loop Clockwise from Mater Hospital, Hazina, South B shoppng Centre, Dunga  Road,  Bunyala  Road,  Uhurus  highway,  Haile  Sellasie  Avenue  Agip,  Toma  Mboya  Street  Commercial,  Old  Posta,  Muranga  Road,  Limuru  Road  third  Parklands  Avenue Mpaka Road, Deepsea, sixth Parklands  Avenue (Loop anti  clockwise)",
+    "CBD Routing": "Tom  Mboya  St.,  Cabral  St.,  Moi Avenue, Gill Hse, Haile  Sellasie Avenue"
+  },
+  {
+    "Route No": "64",
+    "Start": "Dagoretti CentreKarinde",
+    "End": "Bomas",
+    "Key Stages": "Kikuyu  Road,  Dagoretti  Road,  Langata  Road,  Langata  South  Road,  Bogani  Road, Colleges, Bomas",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "65",
+    "Start": "Mathare  North  NYSEI",
+    "End": "Sameer park General Motors",
+    "Key Stages": "Mathare  North  Road,  Redeemed  Church,  Juja  Road,  MAB,  1st  Avenue  Eastleigh, Jogoo Road, Likoni Road, Enterprise Road, General Motors, Sameer  Park",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "66",
+    "Start": "Kikuyu Town   Central",
+    "End": "Bus Station/Hakati",
+    "Key Stages": "(Circular  )  Kikuyu  Road–Waithaka,  Naivasha  Road–  Kawangware,  Ngong  Road,  Junction  Mall,  Adams  Arcade,  Prestige  Mall,  KMTC,  Community,  Serena,  Kenyatta  AvenueGPO,  Ambassadeur–  Tom  Mboya,  Mfangano  St.  Hakati Road, Temple Road (circular)",
+    "CBD Routing": "Temple–Uyoma–Tusker– Moi  Avenue,  Cityhall  Way,  Kencom,  Kimathi  Street  Kenyatta Avenue,"
+  },
+  {
+    "Route No": "67",
+    "Start": "Kikuyu Town Central",
+    "End": "Bus  Station/Hakati",
+    "Key Stages": "(Circular  )  Kikuyu  Road–Gitaru,  A104,  Waiyaki  Way,  Kangemi,  Westlands,  Uhuru  Highway,  University  Slip  Road,  Globe  Round  About,  Tom  Mboya  Street Hakati Road",
+    "CBD Routing": "Temple–Uyoma–Tusker– Moi  Avenue,  Cityhall  Way,  Kencom,  Kimathi  Street  Kenyatta Avenue,"
+  },
+  {
+    "Route No": "68",
+    "Start": "Ruiru",
+    "End": "Central Bus Station/Hakati",
+    "Key Stages": "Thika  Road,  Githurai,  Alsops,  Muthaiga,  Muranga  Road,  Globe  Roundabout,  Tom Mboya Street Old Posta, Tom Mboya, Hakati Road, Temple Road,",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Tusker,  Tom  Mboya,  Old  Posta"
+  },
+  {
+    "Route No": "69",
+    "Start": "Kitengela",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": ",  Nairobi–Namanga  Road–  Mombasa  Road,  Mlolongo,  Cabanas,  GM,  Nyayo  Stadium, Uhuru highway, Haile Selasie Avenue, Agip, Mfangano Street Hakati  Road, Temple Road",
+    "CBD Routing": "Temple–Uyoma–Tusker– Moi  Avenue,  Haile  Sellasie  Avenue Govt, Printers"
+  },
+  {
+    "Route No": "70",
+    "Start": "Athi River",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Nairobi–Namanga  Road, Mombasa  Road,  Mlolongo,  Cabanas,  GM,  Nyayo  Stadium, Uhuru highway, Haile Selasie Avenue, Agip, Mfangano Street Hakati  Road, Temple Road",
+    "CBD Routing": "Temple–Uyoma–Tusker– Moi  Avenue,  Haile  Sellasie  Avenue Govt, Printers"
+  },
+  {
+    "Route No": "71",
+    "Start": "Kiserian-Ngong",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Ngong  Road,  Matasia,  Ngong,  Karen,  Racecourse,  Junction  Mall,  Adams,  Prestige  Mall,  KMTC,  Community,  Kenyatta  Avenue,  GPO,  ICEA,  Ambassadeur, Moi Avenue, Haile Sellasie Avenue Mfangano St. Hakati Road,  Temple (circular)",
+    "CBD Routing": "Temple–Uyoma–Tusker– Moi  Avenue,  Cityhall  Way,  Kencom,  Kimathi  Street  Kenyatta Avenue,"
+  },
+  {
+    "Route No": "72",
+    "Start": "Kiserian-Ongata Rongai",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Magadi Road, Bomas, Langata Road, Wilson Airport, Nyayo Stadium, Uhuru  highway,  Haile  Sellasie  Avenue,  Agip,  Mfangano  St.,  Hakati  Road,  Temple  Road, (circular)",
+    "CBD Routing": "Temple–Uyoma–Tusker– Moi  Avenue,  Haile  Sellasie  Avenue Govt, Printers"
+  },
+  {
+    "Route No": "73",
+    "Start": "Ongata-Rongai  Gataka",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "From  Rongai  Tassia  Supermarket  on  Magadi  Road,  Gataka  Road–Bogani  Road.Bomas, Langata, Nyayo Stadium, Uhuru highway, Haileseallsies Avenue  Agip, Mfangano Street Hakati Road, Temple Road",
+    "CBD Routing": "Temple–Uyoma–Tusker– Moi  Avenue,  Haile  Sellasie  Avenue Govt, Printers"
+  },
+  {
+    "Route No": "74",
+    "Start": "Joska–Kamulu",
+    "End": "Central Bus  station/Hakati",
+    "Key Stages": "Kangundo Road, Ruai, Outering Road, Juja Road, MAB, St. Teresah’s Church,  Pangani,  Kariokor,  Ring  Road  Ngara,  Haile  Sellasie  Avenue,  Moi  Avenue  Roundabout, Mfangano Street Hakati Road, Temple Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Racecourse,  Ring  Road  Ngara"
+  },
+  {
+    "Route No": "75",
+    "Start": "Thika-Makongeni",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Garissa  Road,  Thika  Road,  Juja,  Githurai,  Alsops,  Park  Road,  Ring  Road  Ngara,  Kamukunji,  Haile  Sellasie  Avenue  KPCU,  Moi  Ave  Roundabout,  Mfangago Street Hakati Road, Temple Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Racecourse  Road–Ring  Road Ngara,"
+  },
+  {
+    "Route No": "76",
+    "Start": "Gachie",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "(Peak extension to Karura Kanyungu), Redhill Road, Limuru Road, Muthaiga  Market,  Parklands,  Ngara,  Muranga  Road,  Globe  Round  About,  Tom  Mboya  St., Hakati Road, Temple Road,",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Tusker,  Tom  Mboya,  Old  Posta"
+  },
+  {
+    "Route No": "76A",
+    "Start": "Gichagi",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Redhill  Road,  Westlands–Redhill  Road  (By  Pass  ),  Waiyaki  Way,  ABC,  Westlands  Triangle,  Parklands  Police,  Ojijo  Road,  Kipande  Road,  Globe  RA,  Tom Mboya St., Hakati Road, Temple Road,",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Tusker,  Tom  Mboya,  Old  Posta"
+  },
+  {
+    "Route No": "77",
+    "Start": "Kiambu Town",
+    "End": "Central Bus  Station/Hakati",
+    "Key Stages": "Kiambu  Road,  Ridgeways,  Thika  Road,  Park  Road,  Ring  Road  Ngara,  Kamukunji,  Haile  Selasie  Avenue,  KPCU,  Moi  Avenue  Roundabout,  Mfangano St. Hakati Road, Temple Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Racecourse  Road–Ring  Road Ngara,"
+  },
+  {
+    "Route No": "78",
+    "Start": "Mwiki-Kasarani",
+    "End": "Gikomba Market",
+    "Key Stages": "Mwiki Road, Kasarani, Thika Road, Juja, Githurai, Alsops, Ring Road Ngara,  Kariokor  Kinyanjui  St.,  Digo  Road,  Meru  Road  .,  Gen.  Waruingi  Street  Ring  Road Ngara",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "79",
+    "Start": "Kiambu Town ",
+    "End": "Gikomba Market",
+    "Key Stages": "Kiambu  Road,  Ridge  Ways,  Thika  Road,  Juja,  Githurai,  Alsops,  Ring  Road  Ngara, Kariokor Kinyanjui St., Digo Road, Meru Road ., Gen. Waruingi Street  Ring Road Ngara",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "80",
+    "Start": "Thika Town",
+    "End": "Gikomba   Market",
+    "Key Stages": "Thika Road, Juja, Githurai, Alsops, Ring Road Ngara, Kariokor Kinyanjui St.,  Digo Road, Meru Road ., Gen. Waruingi Street Ring Road Ngara",
+    "CBD Routing": "Orbital"
+  },
+  {
+    "Route No": "81",
+    "Start": "Ruiru",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Thika Road, Muranga Road, Globe RA, Tom Mboya St. Hakati Road., Temple  Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Tom  Mboya  St.,  Globe  Cinema"
+  },
+  {
+    "Route No": "82",
+    "Start": "Kenol-Muranga",
+    "End": "Central Bus  Station/Hakati",
+    "Key Stages": "Meru–Nairobi Highway, Thika Road, Juja, Githurai, Alsops, Park Road, Ring  Road Ngara, Kamukunji, Haile Sellasie Avenue KPCU, Moi Ave Roundabout,  Mfangago Street Hakati Road, Temple Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Racecourse  Road–Ring  Road Ngara,"
+  },
+  {
+    "Route No": "83",
+    "Start": "Limuru Town  Zambezi",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "A104,  Gitaru,  Uthiru  shops,  ILRI,  Naivasha  Road,  Junction  Shopping  Mall,  Ngong Road, Kenyatta Avenue, GPO, Kimathi St., Ambassadeur, Tom Mboya,  Hakati Road, Temple Road .",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Racecourse  Road–  Moi  Avenue,  Kimathi  St.,  Kenyatta AvenueGPO"
+  },
+  {
+    "Route No": "84",
+    "Start": "Limuru  Town–Kabuku",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Kiambu  Road,  Kabuku,  Ndenderu,  Ruaka,  Redhill  Road,  Village  Market,  Limuru  Road,  Parklands,  Muranga  Road,  Globe  RA,  Tomboya  Street  Hakati  Road, Temple Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Tomboya St., Globe Cinema"
+  },
+  {
+    "Route No": "85",
+    "Start": "Nazareth-Banana Hill",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Raini,  Banana  Hill,  Mucatha,  Ruaka,  Redhill  Road,  Village  Market,  Limuru  Road,  Parklands,  Muranga  Road,  Globe  RA,  Tomboya  Street  Hakati  Road,  Temple Road,",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Tomboya St., Globe Cinema"
+  },
+  {
+    "Route No": "86",
+    "Start": "Imara Daima-Inda",
+    "End": "Kangemi",
+    "Key Stages": "Mombasa  Road,  GM,  Enterprise  Road,  Lusaka  Road,  City  Stadium,  Landhies  Road,  Haile  Sellasie  Avenue,  KPCU,  Moi  Avenue,  Nkurumah  Avenue,  Jevanjee  Gardens,  University  Way,  Uhuru  Highway,  Waiyaki  Way,  Muratha  Road",
+    "CBD Routing": "KBC,  Uhuru  highway,  Kenyatta  Avenue,  Kimathi  Street  Moi  Av,  Gill  Hse,  Haile Seallasie, Landhies"
+  },
+  {
+    "Route No": "87",
+    "Start": "Githunguri  Town",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "C65, Gathanje, Ikinu, Tinganga, Ndumberi, Kiambu Road, Kiambu, Muthaiga,  Thika Road, Park Road, Ring Road Ngara, Kamukunji, Haile Selasie Avenue,  KPCU, Moi Avenue, Mfangano Street Hakati Road, Temple Road",
+    "CBD Routing": "Uyoma–Ronald Ngala Street  Racecourse  Road–Ring  Road Ngara,"
+  },
+  {
+    "Route No": "88",
+    "Start": "Lavington-Dennis Pritt",
+    "End": "Kahawa West",
+    "Key Stages": "Kahawa West   Mugumoini  Road,  Lavington  Pri.,  Olenguruone  Road,  Likoni  Road,  Dennis  Pritt  Road,  Milimani  Road,  Kenyatta  Avenue  GPO,  Mondlane,  Tom  Mboya,  Globe, Muranga Road Thika Road, Roysambu, Kamiti Road",
+    "CBD Routing": "Muranga Road, Tom Mboya  Street  Old  Posta,  Cabral  Street  Kenyatta  Avenue  GPO"
+  },
+  {
+    "Route No": "89",
+    "Start": "Katani Shopping Centre",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Katani  Road,  Mombasa  Road,  General  Motors  (GM)  Enterprise  Road,  DT  Dobie,  Lusaka  Road,  City  Stadium,  Landhies  Road,  Haiesellasie  Avenue,  KPCU, Moi Ave . RA, Mfangano Street . Hakati Road, Temple Road",
+    "CBD Routing": "Uyoma  Street  Ronald  Ngala  Street OTC, Landhies Road,"
+  },
+  {
+    "Route No": "89B",
+    "Start": "Katani Shopping  Centre",
+    "End": "Central  Bus  Station/Hakati",
+    "Key Stages": "Katani Road, Mombasa Road, General Motors (GM), Likoni Road, Enterprise  Road,  DT  Dobie,  LusakaRoad,  City  Stadium,  Landhies  Road,  Haiesellasie  Avenue, KPCU, Moi Ave . RA, Mfangano Street . Hakati Road, Temple Road",
+    "CBD Routing": "Uyoma  Street  Ronald  Ngala  Street OTC, Landhies Road,"
+  },
+  {
+    "Route No": "89C",
+    "Start": "Katani Shopping  Centre",
+    "End": "Westlands",
+    "Key Stages": "Katani  Road,  Mombasa  Road,  Cabanas,  Expressway–Musuem  Hill,  Uhuru  Highway,  Ojijo,  Parklands  Road,  Westlands  Triangle,  Ring  Road  Parklands,  Express Way",
+    "CBD Routing": "Express Way"
+  }
+]

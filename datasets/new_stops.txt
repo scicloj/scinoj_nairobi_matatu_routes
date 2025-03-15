@@ -1,0 +1,1569 @@
+stop_name,route_id
+1st avenue eastleigh,1
+1st avenue eastleigh,14
+1st avenue eastleigh,28
+1st avenue eastleigh,41
+1st avenue eastleigh,48
+1st avenue eastleigh,5
+1st avenue eastleigh,56
+1st avenue eastleigh,59A
+1st avenue eastleigh,65
+1st avenue eastleigh,9
+3rd parklands avenue,50
+3rd parklands avenue,52
+6th parklands avenue,50
+a104,16
+a104,17
+a104,67
+a104,83
+abc,22
+abc,30
+abc,37
+abc,38
+abc,6
+abc,76A
+abc,8
+adams arcade,1
+adams arcade,14
+adams arcade,20
+adams arcade,23
+adams arcade,24
+adams arcade,31
+adams arcade,32
+adams arcade,42
+adams arcade,42
+adams arcade,66
+adams arcade,71
+agip,23
+agip,25
+agip,31
+agip,37
+agip,38
+agip,69
+agip,70
+agip,72
+ahero road,31
+airport north road,19
+airport north road,19A
+airport north road,27
+airport north road,27A
+airport north road,37
+airport north road,38
+airport south road,7
+alsops,10
+alsops,19
+alsops,21
+alsops,24
+alsops,25
+alsops,35
+alsops,40
+alsops,41
+alsops,6
+alsops,62
+alsops,68
+alsops,75
+alsops,78
+alsops,79
+alsops,8
+alsops,80
+alsops,82
+ambassadeur,1
+ambassadeur,11
+ambassadeur,12
+ambassadeur,24
+ambassadeur,27
+ambassadeur,66
+ambassadeur,71
+ambassadeur,83
+ambassdeaur,32
+ambira road,31
+argwings kodhek road,11
+argwings kodhek road,12
+athusi,25
+athusi,42
+baba dogo road,21
+baba dogo road,24
+baba dogo road,25
+banana hill,85
+bellevue,29
+benedicta,37
+benedicta,38
+bogani road,64
+bomas,25
+bomas,26
+bomas,64
+bomas,72
+bunyala road,17
+bunyala road,2A
+bunyala road,30A
+bunyala road,36A
+bunyala road,57
+bunyala road,63
+bunyala road,63A
+buruburu,31
+buruburu,47
+bururburu,2
+bururburu,2A
+bururburu,53
+c65,87
+cabanas,18
+cabanas,18A
+cabanas,19
+cabanas,19A
+cabanas,29
+cabanas,37
+cabanas,38
+cabanas,69
+cabanas,7
+cabanas,70
+cabanas,89C
+cabral street kenyatta avenue,10
+cabral street kenyatta avenue,21
+cabral street kenyatta avenue,34
+cabral street kenyatta avenue,35
+cabral street kenyatta avenue,4
+cabral street kenyatta avenue,45
+cabral street kenyatta avenue,5
+chalbi dvr,43
+chalbi dvr,45
+chiromo,22
+chiromo,37
+chiromo,38
+chiromo,43
+chiromo,45
+chiromo,6
+chiromo,8
+city hall way,13
+city hall way,14
+city hall way,20
+city hall way,29
+city hall way,3
+city hall way,33A
+city hall way,49
+city hall way,9
+city stadium,12
+city stadium,13
+city stadium,2
+city stadium,20
+city stadium,23
+city stadium,27
+city stadium,27A
+city stadium,28
+city stadium,30
+city stadium,33
+city stadium,36
+city stadium,43
+city stadium,44
+city stadium,47
+city stadium,48
+city stadium,49
+city stadium,49A
+city stadium,50
+city stadium,51
+city stadium,53
+city stadium,58
+city stadium,7
+city stadium,86
+city stadium,89
+city stadium,89B
+colleges,64
+commercial,4
+commercial,5
+commercial,50
+commercial,52
+commercial,63
+commercial,63A
+community,1
+community,10
+community,2
+community,20
+community,24
+community,27
+community,29
+community,3
+community,32
+community,33A
+community,34
+community,35
+community,36
+community,42
+community,48
+community,51
+community,53
+community,56
+community,58
+community,66
+community,71
+dagoretti road,64
+deep sea,47
+deep sea,50
+deep sea,52
+deep sea,63
+deep sea,63A
+dennis pritt road,88
+digo road,31
+digo road,56
+digo road,59
+digo road,78
+digo road,79
+digo road,80
+donholm,12
+donholm,13
+donholm,20
+donholm,27
+donholm,27A
+donholm,30
+donholm,33
+donholm,36
+donholm,36A
+donholm,44
+donholm,49
+donholm,49A
+donholm,50
+donholm,51
+donholm,58
+donholm,7
+dt dobie,89
+dt dobie,89B
+dunga road,17
+dunga road,57
+dunga road,63
+dunga road,63A
+eastern by pass,19A
+eastern by pass,37
+eastern by pass,38
+elgon road,13
+elgon road,16
+elgon road,2A
+elgon road,3
+elgon road,30A
+elgon road,34
+elgon road,35
+elgon road,36A
+embakasi road,27
+embakasi road,27A
+enterprise road,2A
+enterprise road,30A
+enterprise road,36A
+enterprise road,65
+enterprise road,86
+enterprise road,89B
+express way,18A
+express way,18A
+express way,89C
+express way,89C
+gandhi avenue,55
+garissa road,75
+gataka road,73
+gathanje,87
+gatundu road,44
+gatundu road,46
+general motors,65
+general motors,89
+general motors,89B
+general waruingi street,14
+general waruingi street,4
+general waruingi street,56
+general waruingi street,78
+general waruingi street,79
+general waruingi street,80
+general waruingi street,9
+getathuru road,39A
+gikomba,14
+gikomba,31
+gikomba,56
+gikomba,9
+gill house,16
+gill house,17
+gill house,42
+gill house,45
+gill house,57
+gitanga road,11
+gitanga road,12
+gitanga road,44
+gitanga road,46
+gitanga road,59
+gitanga road,59A
+gitaru,16
+gitaru,83
+githurai,19
+githurai,35
+githurai,40
+githurai,68
+githurai,75
+githurai,78
+githurai,79
+githurai,80
+githurai,82
+globe round about,10
+globe round about,21
+globe round about,34
+globe round about,35
+globe round about,43
+globe round about,44
+globe round about,45
+globe round about,46
+globe round about,47
+globe round about,50
+globe round about,52
+globe round about,59
+globe round about,59A
+globe round about,67
+globe round about,68
+globe round about,76
+globe round about,76A
+globe round about,81
+globe round about,84
+globe round about,85
+globe round about,88
+gm,18
+gm,37
+gm,38
+gm,69
+gm,70
+gm,86
+govt. printers,16
+govt. printers,17
+govt. printers,33
+govt. printers,41
+govt. printers,45
+govt. printers,55
+govt. printers,57
+gpo,1
+gpo,10
+gpo,11
+gpo,12
+gpo,13
+gpo,14
+gpo,16
+gpo,17
+gpo,21
+gpo,24
+gpo,27
+gpo,28
+gpo,3
+gpo,32
+gpo,33A
+gpo,36
+gpo,4
+gpo,42
+gpo,48
+gpo,49
+gpo,5
+gpo,53
+gpo,56
+gpo,58
+gpo,71
+gpo,83
+gpo,9
+green field,20
+green field,44
+green park,16
+green park,31
+green park,33
+haile selassie avenue,15
+haile selassie avenue,16
+haile selassie avenue,17
+haile selassie avenue,37
+haile selassie avenue,38
+haile selassie avenue,57
+haile selassie avenue,6
+haile selassie avenue,62
+haile selassie avenue,69
+haile selassie avenue,7
+haile selassie avenue,70
+haile selassie avenue,77
+haile selassie avenue,8
+haile selassie avenue,87
+haile selassie avenue,89
+haile selassie avenue,89B
+haile sellasie avenue,13
+haile sellasie avenue,20
+haile sellasie avenue,22
+haile sellasie avenue,23
+haile sellasie avenue,25
+haile sellasie avenue,27A
+haile sellasie avenue,29
+haile sellasie avenue,30
+haile sellasie avenue,31
+haile sellasie avenue,33
+haile sellasie avenue,36
+haile sellasie avenue,41
+haile sellasie avenue,48
+haile sellasie avenue,49
+haile sellasie avenue,49A
+haile sellasie avenue,51
+haile sellasie avenue,54
+haile sellasie avenue,55
+haile sellasie avenue,56
+haile sellasie avenue,58
+haile sellasie avenue,63
+haile sellasie avenue,63A
+haile sellasie avenue,71
+haile sellasie avenue,72
+haile sellasie avenue,73
+haile sellasie avenue,74
+haile sellasie avenue,75
+haile sellasie avenue,82
+haile sellasie avenue,86
+hakati road,39
+hakati road,39A
+hakati road,66
+hakati road,67
+hakati road,68
+hakati road,69
+hakati road,70
+hakati road,72
+hakati road,72
+hakati road,73
+hakati road,74
+hakati road,75
+hakati road,76
+hakati road,76A
+hakati road,77
+hakati road.,81
+hakati road,82
+hakati road,83
+hakati road,84
+hakati road,85
+hakati road,87
+hakati road,89
+hakati road,89B
+hazina,17
+hazina,57
+hazina,63
+hazina,63A
+heshima avenue,28
+heshima avenue,31
+heshima avenue,48
+hospital road,13
+hospital road,16
+hospital road,2A
+hospital road,3
+hospital road,30A
+hospital road,34
+hospital road,35
+hospital road,36A
+hurligham,11
+hurligham,12
+hurligham,5
+huruma,14
+huruma,3
+huruma,33A
+huruma,55
+huruma road,32
+icea,1
+icea,11
+icea,12
+icea,16
+icea,24
+icea,27
+icea,32
+icea,42
+icea,71
+ikinu,87
+ilri round about,49
+ilri round about,49A
+ilri round about,83
+isaac gathanju road,43
+isaac gathanju road,45
+jacaranda,20
+jacaranda,44
+james gichuru road,43
+james gichuru road,45
+james gichuru road,59
+james gichuru road,59A
+jericho,23
+jevanjee gardens,15
+jevanjee gardens,22
+jevanjee gardens,30
+jevanjee gardens,37
+jevanjee gardens,38
+jevanjee gardens,49A
+jevanjee gardens,6
+jevanjee gardens,62
+jevanjee gardens,7
+jevanjee gardens,8
+jevanjee gardens,86
+jogoo road,12
+jogoo road,13
+jogoo road,2
+jogoo road,20
+jogoo road,23
+jogoo road,27
+jogoo road,27A
+jogoo road,28
+jogoo road,2A
+jogoo road,30
+jogoo road,36
+jogoo road,43
+jogoo road,44
+jogoo road,47
+jogoo road,48
+jogoo road,49
+jogoo road,49A
+jogoo road,50
+jogoo road,51
+jogoo road,53
+jogoo road,58
+jogoo road,65
+jogoo road,7
+joseph kangethe road,20
+juja,19A
+juja,40
+juja,75
+juja,78
+juja,79
+juja,80
+juja,82
+juja road,11
+juja road,22
+juja road,3
+juja road,32
+juja road,33A
+juja road,41
+juja road,46
+juja road,5
+juja road,52
+juja road,54
+juja road,55
+juja road,55
+juja road,56
+juja road,57
+juja road,57
+juja road,59A
+juja road,65
+juja road,74
+juja road,9
+junction mall,1
+junction mall,14
+junction mall,23
+junction mall,24
+junction mall,31
+junction mall,32
+junction mall,42
+junction mall,66
+junction mall,71
+junction mall,83
+kabete technical college,49A
+kabuku,84
+kahawa west mugumoini road,88
+kamiti road,42
+kamiti road,8
+kamiti road,88
+kamukunji,15
+kamukunji,22
+kamukunji,54
+kamukunji,55
+kamukunji,6
+kamukunji,75
+kamukunji,77
+kamukunji,8
+kamukunji,82
+kamukunji,87
+kamukunji pol,62
+kamunde road,32
+kamunde road,55
+kamunde road,56
+kamunde road,9
+kangemi,16
+kangemi,17
+kangemi,49A
+kangemi,67
+kangundo road,14
+kangundo road,19A
+kangundo road,33
+kangundo road,33A
+kangundo road,47
+kangundo road,48
+kangundo road,52
+kangundo road,58
+kangundo road,74
+karen,23
+karen,24
+karen,71
+kariobangi round about,14
+kariobangi round about,3
+kariobangi round about,32
+kariobangi round about,33A
+kariobangi round about,41
+kariobangi round about,54
+kariobangi round about,55
+kariobangi round about,56
+kariobangi round about,9
+kariobangi south,2
+kariobangi south,2A
+kariobangi south,53
+kariokor market,11
+kariokor market,22
+kariokor market,24
+kariokor market,25
+kariokor market,3
+kariokor market,32
+kariokor market,33A
+kariokor market,46
+kariokor market,5
+kariokor market,52
+kariokor market,54
+kariokor market,55
+kariokor market,57
+kariokor market,59A
+kariokor market,74
+kariokor market,78
+kariokor market,79
+kariokor market,80
+kasarani,19
+kasarani,78
+katani road,89
+katani road,89B
+katani road,89C
+kawangware road,11
+kawangware road,12
+kawangware road,59
+kawangware road,59A
+kencom,13
+kencom,14
+kencom,2
+kencom,28
+kencom,29
+kencom,3
+kencom,33A
+kencom,49
+kencom,51
+kencom,53
+kencom,56
+kencom,58
+kencom,9
+kenyatta avenue,1
+kenyatta avenue,11
+kenyatta avenue,12
+kenyatta avenue,16
+kenyatta avenue,17
+kenyatta avenue,2
+kenyatta avenue,20
+kenyatta avenue,24
+kenyatta avenue,27
+kenyatta avenue,32
+kenyatta avenue,36
+kenyatta avenue,42
+kenyatta avenue,48
+kenyatta avenue,51
+kenyatta avenue,56
+kenyatta avenue,66
+kenyatta avenue,71
+kenyatta avenue,83
+kenyatta avenue,88
+kiambu road,15
+kiambu road,77
+kiambu road,79
+kiambu road,84
+kiambu road,87
+kiambu road,87
+kibera drive ,2
+kibera drive,20
+kibera drive,21
+kibera drive,26
+kibera drive,2A
+kibera drive,36
+kibera drive,36A
+kibera drive,9
+kiganjo avenue mombasa road,41
+kiganjo avenue mombasa road,54
+kikuyu road,1
+kikuyu road,16
+kikuyu road,64
+kikuyu road,66
+kikuyu road,67
+kileleshwa,26
+kileleshwa,44
+kileleshwa,46
+kileleshwa,55
+kilimani,2
+kilimani,21
+kilimani,26
+kilimani,2A
+kilimani,36
+kilimani,36A
+kilimani,4
+kilimani,5
+kilimani,9
+kimathi street kenyatta avenue,13
+kimathi street kenyatta avenue,14
+kimathi street kenyatta avenue,2
+kimathi street kenyatta avenue,20
+kimathi street kenyatta avenue,28
+kimathi street kenyatta avenue,29
+kimathi street kenyatta avenue,3
+kimathi street kenyatta avenue,33A
+kimathi street kenyatta avenue ,36
+kimathi street kenyatta avenue,48
+kimathi street kenyatta avenue,49
+kimathi street kenyatta avenue,51
+kimathi street kenyatta avenue,53
+kimathi street kenyatta avenue,56
+kimathi street kenyatta avenue,58
+kimathi street kenyatta avenue,83
+kimathi street kenyatta avenue,9
+kingeero,39
+kinka,37
+kinka,38
+kinyanjui road,14
+kinyanjui road,31
+kinyanjui road,32
+kinyanjui road,42
+kipande road,39
+kipande road,39A
+kipande road,46
+kipande road,76A
+kitengela road,27A
+kmtc,1
+kmtc,10
+kmtc,20
+kmtc,21
+kmtc,23
+kmtc,24
+kmtc,27
+kmtc,28
+kmtc,29
+kmtc,2A
+kmtc,30A
+kmtc,31
+kmtc,32
+kmtc,33A
+kmtc,36
+kmtc,36A
+kmtc,4
+kmtc,53
+kmtc,66
+kmtc,71
+knh,2A
+knh,3
+knh,30A
+komarock road,2
+komarock road,2A
+komarock road,3
+komarock road,53
+komarock road,54
+kopo road,41
+kpcu,12
+kpcu,13
+kpcu,15
+kpcu,22
+kpcu,23
+kpcu,25
+kpcu,31
+kpcu,36
+kpcu,41
+kpcu,42
+kpcu,48
+kpcu,49
+kpcu,49A
+kpcu,51
+kpcu,55
+kpcu,56
+kpcu,58
+kpcu,6
+kpcu,62
+kpcu,7
+kpcu,77
+kpcu,86
+kpcu,87
+kpcu,89
+kpcu,89B
+kungu karumba,26
+kungu karumba,27
+kungu karumba,27A
+lamu road,31
+landhies road,13
+landhies road,2
+landhies road,20
+landhies road,23
+landhies road,27
+landhies road,27A
+landhies road,28
+landhies road,30
+landhies road,33
+landhies road,36
+landhies road,43
+landhies road,44
+landhies road,47
+landhies road,48
+landhies road,49
+landhies road,49A
+landhies road,50
+landhies road,51
+landhies road,53
+landhies road,58
+landhies road,7
+landhies road,86
+landhies road,89
+landhies road,89B
+langata road,25
+langata road,26
+langata road,27
+langata road,27A
+langata road,55
+langata road,55
+langata road,64
+langata road,64
+langata road,72
+langata road,73
+likoni road,26
+likoni road,2A
+likoni road,65
+likoni road,88
+likoni road,89B
+limuru road,34
+limuru road,47
+limuru road,50
+limuru road,52
+limuru road,63
+limuru road,63A
+limuru road,76
+limuru road,84
+limuru road,85
+lower kabete road,39
+lower kabete road,39A
+lunga lunga road,30A
+lunga lunga road,36A
+lusaka road,2A
+lusaka road,30A
+lusaka road,36A
+lusaka road,86
+lusaka road,89
+lusaka road,89B
+mab,22
+mab,65
+mab,74
+macharia road,44
+macharia road,46
+magadi road,25
+magadi road,26
+magadi road,72
+makadara,2
+makadara,27
+makadara,27A
+makadara,30
+makadara,33
+makadara,36
+makadara,47
+makadara,51
+makadara,53
+maktaba kuu,23
+maktaba makuu,31
+mandera road,44
+mandera road,46
+manyanja road,12
+manyanja road,36
+manyanja road,36A
+mara road,13
+mara road,16
+mara road,3
+mara road,34
+mara road,35
+maringo,23
+masimba,13
+masimba,14
+masimba,49
+masimba,49A
+masimba,50
+matasia,71
+mater hospital,17
+mater hospital,57
+mater hospital,63
+mater hospital,63A
+mathare north road,22
+mathare north road,65
+mathare road,11
+mathare road,46
+mathare road,57
+mayanja road,13
+mayanja road,49
+mayanja road,49A
+mayanja road,50
+mbagathi road,10
+mbagathi road,10
+mbagathi road,27
+mbagathi road,27A
+mbagathi road,28
+mbagathi road,28
+mbagathi road,29
+mbagathi road,29
+mbagathi road,30A
+mbagathi road,30A
+mbagathi road,33
+mbagathi road,33
+mbagathi road,33A
+mbagathi road,33A
+mbagathi road,53
+mbagathi road,53
+mbagathi road,55
+mca,38
+meru–nairobi highway,82
+meru road,78
+meru road,79
+meru road,80
+milimani road,88
+mlolongo,18
+mlolongo,18A
+mlolongo,19
+mlolongo,19A
+mlolongo,69
+mlolongo,70
+moi avenue,12
+moi avenue,13
+moi avenue,14
+moi avenue,15
+moi avenue,2
+moi avenue,20
+moi avenue,22
+moi avenue,28
+moi avenue,29
+moi avenue,3
+moi avenue,30
+moi avenue,33A
+moi avenue,36
+moi avenue,37
+moi avenue,38
+moi avenue,41
+moi avenue,42
+moi avenue,48
+moi avenue,49
+moi avenue,49A
+moi avenue,51
+moi avenue,53
+moi avenue,56
+moi avenue,57
+moi avenue,58
+moi avenue,6
+moi avenue,62
+moi avenue,7
+moi avenue,71
+moi avenue,74
+moi avenue,75
+moi avenue,77
+moi avenue,8
+moi avenue,82
+moi avenue,86
+moi avenue,87
+moi avenue,89
+moi avenue,89B
+moi avenue,9
+moi drive,12
+moi drive,14
+mombasaa road,41
+mombasa road,18
+mombasa road,18A
+mombasa road,19
+mombasa road,19A
+mombasa road,29
+mombasa road,37
+mombasa road,38
+mombasa road,45
+mombasa road,45
+mombasa road,54
+mombasa road,7
+mombasa road,70
+mombasa road,86
+mombasa road,89
+mombasa road,89B
+mombasa road,89C
+mondlane,88
+mpaka road,47
+mpaka road,50
+mpaka road,52
+mpaka road,63
+mtongwe road,10
+mtongwe road,28
+mtongwe road,29
+mtongwe road,30A
+mtongwe road,33
+mtongwe road,33A
+mtongwe road,53
+mucatha,85
+muhoho avenue,41
+muhoho avenue,41
+muhoho avenue,45
+muhoho avenue,54
+muhoho avenue,54
+muinami st.,56
+muinami street,41
+muinami street,59
+muinami street,9
+mumias south road,2
+mumias south road,28
+mumias south road,2A
+mumias south road,31
+mumias south road,43
+mumias south road,47
+mumias south road,48
+mumias south road,53
+muranga road,10
+muranga road,21
+muranga road,34
+muranga road,35
+muranga road,47
+muranga road,50
+muranga road,52
+muranga road,63
+muranga road,63A
+muranga road,68
+muranga road,76
+muranga road,81
+muranga road,84
+muranga road,85
+muranga road,88
+muratha road,86
+museum hill,15
+museum hill,18
+museum  hill,45
+museum hill,62
+museum hill,7
+muthaiga,34
+muthaiga,35
+muthaiga,68
+muthaiga,76
+muthaiga,87
+muthaiti avenue,55
+mutindwa market,12
+mwiki road,10
+mwiki road,62
+mwiki road,78
+mwimuto,39A
+nairobi hospital,5
+nairobi–namanga road,18
+nairobi–namanga road,19
+nairobi–namanga road,19A
+nairobi–namanga road,69
+nairobi–namanga road,70
+naivasha road,1
+naivasha road,14
+naivasha road,32
+naivasha road,42
+naivasha road,49
+naivasha road,66
+naivasha road,83
+ndenderu,84
+ndumberi,87
+ngara,15
+ngara,22
+ngara,34
+ngara,55
+ngara,57
+ngara,59A
+ngara,6
+ngara,62
+ngara,74
+ngara,75
+ngara,76
+ngara,77
+ngara,78
+ngara,79
+ngara,8
+ngara,80
+ngara,82
+ngara,87
+ngecha road,39A
+ngong,71
+ngong road,1
+ngong road,10
+ngong road,14
+ngong road,20
+ngong road,21
+ngong road,23
+ngong road,24
+ngong road,27
+ngong road,28
+ngong road,29
+ngong road,3
+ngong road,30A
+ngong road,31
+ngong road,32
+ngong road,33
+ngong road,33A
+ngong road,34
+ngong road,35
+ngong road,35
+ngong road,36
+ngong road,36A
+ngong road,4
+ngong road,42
+ngong road,48
+ngong road,53
+ngong road,56
+ngong road,58
+ngong road,66
+ngong road,71
+ngong road,83
+ngong road,9
+ngong road–ragati road,13
+nile road,23
+nkurumah avenue,15
+nkurumah avenue,22
+nkurumah avenue,30
+nkurumah avenue,37
+nkurumah avenue,38
+nkurumah avenue,49A
+nkurumah avenue,62
+nkurumah avenue,7
+nkurumah avenue,8
+nkurumah avenue,86
+nyasa road,23
+nyayo stadium,18
+nyayo stadium,25
+nyayo stadium,29
+nyayo stadium,37
+nyayo stadium,38
+nyayo stadium,69
+nyayo stadium,70
+nyayo stadium,72
+nyayo stadium,73
+nyeri road,44
+nyeri road,46
+ojijo road,15
+ojijo road,18
+ojijo road,18A
+ojijo road,39
+ojijo road,39A
+ojijo road,40
+ojijo road,62
+ojijo road,7
+ojijo road,76A
+ojijo road,89C
+old posta,10
+old posta,21
+old posta,34
+old posta,35
+old posta,39
+old posta,39A
+old posta,52
+old posta,63
+old posta,63A
+old posta,68
+olenguruone road,88
+ole sangale avenue,55
+ole shapara avenue,41
+ole shapara avenue,45
+ole shapara avenue,54
+oloitoktok road,26
+otc,27
+otc,43
+otc,44
+othaya road,44
+othaya road,46
+outering road,14
+outering road,19
+outering road,19A
+outering road,27
+outering road,27A
+outering road,29
+outering road,30
+outering road,30A
+outering road,32
+outering road,33
+outering road,33A
+outering road,41
+outering road,47
+outering road,51
+outering road,52
+outering road,55
+outering road,56
+outering road,58
+outering road,7
+outering road,74
+outering road,9
+pangani,24
+pangani,42
+pangani,5
+pangani,74
+parklands,15
+parklands,18
+parklands,18A
+parklands,18A
+parklands,34
+parklands,39
+parklands,39A
+parklands,40
+parklands,40
+parklands,62
+parklands,62
+parklands,7
+parklands,7
+parklands,76
+parklands,76A
+parklands,84
+parklands,85
+parklands,89C
+parklands,89C
+park road,15
+park road,24
+park road,6
+park road,62
+park road,75
+park road,77
+park road,8
+park road,82
+park road,87
+popo road,45
+popo road,54
+prestige mal,4
+prestige mall,1
+prestige mall,23
+prestige mall,24
+prestige mall,31
+prestige mall,32
+prestige mall,42
+prestige mall,66
+prestige mall,71
+pumwani road,31
+pumwani road,41
+pumwani road,59
+rabai road,23
+rabai road,28
+rabai road,31
+rabai road,43
+rabai road,48
+race course,23
+race course,24
+race course,24
+race course,3
+race course,32
+race course,33A
+race course,4
+race course,5
+race course,52
+race course,57
+race course,71
+ragati road,16
+ragati road,3
+ragati road,34
+ragati road,35
+ragati road,35
+railway club,58
+raini,85
+redeemed church,22
+redeemed church,65
+redhill road,76
+redhill road,76A
+redhill road,84
+redhill road,85
+retail market,14
+retail market,56
+retail market,9
+ridgeways,15
+ridgeways,77
+ridgeways,79
+riverside drive,26
+riverside drive,43
+riverside drive,44
+riverside drive,45
+riverside drive,46
+ronald ngala street,11
+ronald ngala street,24
+ronald ngala street,27
+ronald ngala street,32
+ronald ngala street,43
+ronald ngala street,44
+ronald ngala street,46
+ronald ngala street,59
+ronald ngala street,59A
+roysambu,42
+roysambu,88
+ruai,33
+ruai,33A
+ruai,74
+ruaka,84
+ruaka,85
+ruiru,19A
+sameer park,65
+sarit,39
+sarit,39A
+savanah,20
+serena,1
+serena,21
+serena,32
+serena,66
+sixth parklands avenue,47
+sixth parklands avenue,52
+sixth parklands avenue,63
+sixth parklands avenue,63A
+slip road,43
+slip road,59
+slip road,59A
+south b shopping centre,17
+south b shoppng centre,63
+south b shoppng centre,63A
+southlands,27A
+spine road,13
+spine road,14
+spine road,20
+spine road,44
+spine road,49
+spine road,49A
+spine road,50
+st. paul church,15
+st. paul church,18
+st. paul church,22
+st. paul church,30
+st. paul church,37
+st. paul church,38
+st. paul church,6
+st. paul church,7
+st. peter clavers church,14
+st. peter clavers church,2
+st. peter clavers church,28
+st. peter clavers church,3
+st. peter clavers church,33A
+st. peter clavers’church,4
+st. peter clavers church,41
+st. peter clavers church,47
+st. peter clavers church,5
+st. peter clavers church,50
+st. peter clavers church,52
+st. peter clavers church,53
+st. peter clavers church,57
+st. peter clavers church,9
+st. teresah church,11
+st. teresah church,14
+st. teresah church,22
+st. teresah church,3
+st. teresah church,32
+st. teresah church,33A
+st. teresah church,41
+st. teresah church,46
+st. teresah church,5
+st. teresah church,54
+st. teresah church,55
+st. teresah church,56
+st. teresah church,57
+st. teresah church,59A
+st. teresah church,74
+st. teresah church,9
+suna road,20
+taj mall,19
+taj mall,27
+taj mall,27A
+taj mall,29
+taj mall,7
+temple road,39
+temple road,39A
+temple road,66
+temple road,68
+temple road,69
+temple road,70
+temple road,71
+temple road,72
+temple road,73
+temple road,74
+temple road,75
+temple road,76
+temple road,76A
+temple road,77
+temple road,81
+temple road,82
+temple road,83
+temple road,84
+temple road,85
+temple road,87
+temple road,89
+temple road,89B
+thika road,10
+thika road,15
+thika road,19
+thika road,19A
+thika road,21
+thika road,24
+thika road,25
+thika road,35
+thika road,40
+thika road,41
+thika road,42
+thika road,6
+thika road,62
+thika road,68
+thika road,75
+thika road,77
+thika road,78
+thika road,79
+thika road,8
+thika road,80
+thika road,81
+thika road,82
+thika road,87
+third parklands avenue,47
+third parklands avenue,63
+tinganga,87
+tom mboya street,21
+tom mboya street,34
+tom mboya street,39
+tom mboya street,43
+tom mboya street,44
+tom mboya street,45
+tom mboya street,47
+tom mboya street,50
+tom mboya street,52
+tom mboya street,59
+tom mboya street,59A
+tom mboya street,68
+tom mboya street,76
+tom mboya street,76A
+tom mboya street,83
+tom mboya street,88
+trm mall,10
+trm mall,41
+trm mall,6
+trm mall,62
+tusker,2
+tusker,33A
+tusker,4
+tusker,47
+tusker,50
+tusker,52
+tusker,53
+uhuru estate,28
+uhuru highway,15
+uhuru highway,16
+uhuru highway,17
+uhuru highway,18
+uhuru highway,18A
+uhuru highway,25
+uhuru highway,27A
+uhuru highway,30
+uhuru highway,37
+uhuru highway,37
+uhuru highway,38
+uhuru highway,38
+uhuru highway,41
+uhuru highway,43
+uhuru highway,44
+uhuru highway,45
+uhuru highway,45
+uhuru highway,46
+uhuru highway,49A
+uhuru highway,54
+uhuru highway,55
+uhuru highway,57
+uhuru highway,59
+uhuru highway,59A
+uhuru highway,6
+uhuru highway,62
+uhuru highway,63
+uhuru highway,63A
+uhuru highway,67
+uhuru highway,69
+uhuru highway,7
+uhuru highway,70
+uhuru highway,72
+uhuru highway,73
+uhuru highway,8
+uhuru highway,86
+uhuru highway,89C
+uhuru park,18
+umoja 2,14
+university slip road,67
+university way,15
+university way,22
+university way,30
+university way,37
+university way,38
+university way,43
+university way,44
+university way,49A
+university way,59
+university way,59A
+university way,6
+university way,62
+university way,7
+university way,8
+university way,86
+upperhill,13
+utawala,19A
+uthiru,17
+uthiru,83
+uyoma street,33A
+uyoma street,4
+uyoma street,47
+uyoma street,50
+uyoma street,52
+uyoma street tusker,14
+uyoma street tusker,28
+uyoma street tusker,3
+uyoma street tusker,5
+uyoma street tusker,57
+uyoma street tusker,9
+valley arcade,11
+valley arcade,12
+valley road,11
+valley road,12
+valley road,5
+village market mall,34
+village market mall,84
+village market mall,85
+waiyaka way,18
+waiyaki way,15
+waiyaki way,16
+waiyaki way,17
+waiyaki way,22
+waiyaki way,30
+waiyaki way,37
+waiyaki way,38
+waiyaki way,40
+waiyaki way,43
+waiyaki way,44
+waiyaki way,45
+waiyaki way,46
+waiyaki way,49A
+waiyaki way,59
+waiyaki way,59A
+waiyaki way,6
+waiyaki way,62
+waiyaki way,67
+waiyaki way,7
+waiyaki way,7
+waiyaki way,76A
+waiyaki way,8
+waiyaki way,86
+wangari maathai road,40
+wangu avenue,28
+wangu avenue,31
+wangu avenue,48
+wanyee road,14
+wanyee road,31
+wanyee road,32
+waruku,22
+waruku,30
+waruku,37
+waruku,38
+waruku,6
+waruku,8
+western bypass,39
+westlands,16
+westlands,17
+westlands,18
+westlands,18A
+westlands,22
+westlands,26
+westlands,30
+westlands,37
+westlands,38
+westlands,39
+westlands,39A
+westlands,40
+westlands,49A
+westlands,59
+westlands,59A
+westlands,6
+westlands,67
+westlands,76A
+westlands,76A
+westlands,8
+westlands,89C
+wilson airport,25
+wilson airport,27
+wilson airport,27A
+wilson airport,72
+woodley,20
+yaya,11
+yaya,12
+yaya,26
+yaya,5
